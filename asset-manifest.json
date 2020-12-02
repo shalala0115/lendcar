@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/github.io/lendcar/static/css/main.a6e59609.chunk.css",
+    "main.js": "/github.io/lendcar/static/js/main.a79e5a78.chunk.js",
+    "main.js.map": "/github.io/lendcar/static/js/main.a79e5a78.chunk.js.map",
+    "runtime-main.js": "/github.io/lendcar/static/js/runtime-main.2f1a2042.js",
+    "runtime-main.js.map": "/github.io/lendcar/static/js/runtime-main.2f1a2042.js.map",
+    "static/css/2.44309f2b.chunk.css": "/github.io/lendcar/static/css/2.44309f2b.chunk.css",
+    "static/js/2.2c382003.chunk.js": "/github.io/lendcar/static/js/2.2c382003.chunk.js",
+    "static/js/2.2c382003.chunk.js.map": "/github.io/lendcar/static/js/2.2c382003.chunk.js.map",
+    "index.html": "/github.io/lendcar/index.html",
+    "precache-manifest.c381927a68c2d40d78e6e01828ce09f6.js": "/github.io/lendcar/precache-manifest.c381927a68c2d40d78e6e01828ce09f6.js",
+    "service-worker.js": "/github.io/lendcar/service-worker.js",
+    "static/css/2.44309f2b.chunk.css.map": "/github.io/lendcar/static/css/2.44309f2b.chunk.css.map",
+    "static/css/main.a6e59609.chunk.css.map": "/github.io/lendcar/static/css/main.a6e59609.chunk.css.map",
+    "static/js/2.2c382003.chunk.js.LICENSE.txt": "/github.io/lendcar/static/js/2.2c382003.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github.io/lendcar/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f1a2042.js",
+    "static/css/2.44309f2b.chunk.css",
+    "static/js/2.2c382003.chunk.js",
+    "static/css/main.a6e59609.chunk.css",
+    "static/js/main.a79e5a78.chunk.js"
+  ]
+}
